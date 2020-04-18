@@ -1,3 +1,3 @@
 # observables-subscribe-unsubscribe
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/observables-subscribe-unsubscribe)
+In this example, we will see how observables are cancelled
